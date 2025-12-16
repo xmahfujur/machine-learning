@@ -15,8 +15,8 @@ This repository is a **comprehensive collection of resources, projects, and note
 
 
 ## 📂 Repository Structure
-machine-learning/
-│
+machine-learning
+
 ├── basics/                # Core concepts: supervised, unsupervised, reinforcement learning
 ├── algorithms/            # Implementations of ML algorithms (regression, classification, clustering, etc.)
 ├── preprocessing/         # Data cleaning, encoding, normalization, feature engineering
