@@ -16,12 +16,12 @@ This repository is a **comprehensive collection of resources, projects, and note
 
 ## 📂 Repository Structure
 machine-learning
-\n
-├── basics/                # Core concepts: supervised, unsupervised, reinforcement learning \n
-├── algorithms/            # Implementations of ML algorithms (regression, classification, clustering, etc.) \n
-├── preprocessing/         # Data cleaning, encoding, normalization, feature engineering \n
-├── projects/              # Hands-on projects with datasets (Titanic, car prices, image classification) \n
-├── deep-learning/         # Neural networks, CNNs, RNNs, transformers \n
+
+├── basics/                # Core concepts: supervised, unsupervised, reinforcement learning 
+├── algorithms/            # Implementations of ML algorithms (regression, classification, clustering, etc.) 
+├── preprocessing/         # Data cleaning, encoding, normalization, feature engineering 
+├── projects/              # Hands-on projects with datasets (Titanic, car prices, image classification) 
+├── deep-learning/         # Neural networks, CNNs, RNNs, transformers 
 ├── generative-ai/         # GANs, diffusion models, LLMs
 ├── notes/                 # Detailed explanations, tutorials, and references
 └── resources/             # External links, papers, and study materials
